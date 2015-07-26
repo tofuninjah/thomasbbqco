@@ -4,7 +4,7 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 	<meta name="viewport" content="width=device-width, initial-scale = 1.0, user-scalable = no">
-	<title>Delicious - Restaurant website</title>
+	<title>Thomas BBQ</title>
 	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
 	<link rel="stylesheet" id="camera-css"  href="css/flexslider.css" type="text/css" media="all">
 	<link rel="stylesheet" href="css/normalize.css" type="text/css" media="screen">
@@ -81,8 +81,8 @@
 		<div class="container clearfix">
 			<div id="content" class="grid_12">
 				<div class="filtr_bg">
-					<h1>What makes our restaurant special?</h1>
-					<h2>- We Kill em' and Grill em'!</h2>
+					<h1>World famous Bar-B-Q</h1>
+					<h2>Tender, juicy, slow smoked up to 14 hours</h2>
 					<div class="bord_in_red"></div>
 					<p>Fusce faucibus egestas condimentum. Suspendisse ac nibh ullamcorper quam iaculis pretium eu eu turpis.</p>
 				</div>
@@ -105,11 +105,13 @@ Play with your food. Get it on your shirt...Welcome to Our Kitchen!</h2>
 			<img class="icon_img" src="images/icon10.png" />
 		</div>
 		<div id="content" class="grid_12">
+			<!--
 			<h4>Who We Are?</h4>
 			<img class="about_img" src="images/about_img1.jpg" alt="" />
 			<p>Integer libero felis, sagittis et ornare non, malesuada vitae turpis. Suspendisse potenti. Quisque nec lorem quis nisi consectetur fermentum. Fusce blandit mollis justo, a consequat est dignissim a. Quisque fringilla quam sed metus viverra id venenatis magna congue. Curabitur nulla ante, condimentum et tincidunt volutpat, vestibulum ut ipsum. Nullam sit amet nisi orci. Sed eu felis nec dolor dapibus viverra. In et massa odio. Mauris porttitor auctor blandit.</p>
 			<p>Nunc venenatis lorem et mi elementum laoreet. Integer mollis erat lacus. Mauris eu eros vitae lacus tristique luctus. Vivamus diam augue, tempus non vestibulum ac, vulputate eu odio. In lorem libero, rutrum vel adipiscing at, tempus eget mi. Duis adipiscing placerat laoreet. Morbi non lorem sit amet erat pretium faucibus. Praesent vitae odio eu ligula ultricies mattis vel mollis sapien. Pellentesque sollicitudin justo quis urna auctor iaculis. Phasellus nec neque libero, vel aliquam enim. Mauris faucibus tincidunt augue, et pretium urna molestie non. Sed lacinia cursus mi, non adipiscing</p>
 		</div>
+		-->
 	</div>
 </div>
 
@@ -365,7 +367,7 @@ Play with your food. Get it on your shirt...Welcome to Our Kitchen!</h2>
 
 <div id="footer">
 	<div class="container clearfix">
-		<div class="copyright">Delicious &copy; 2020 | <a href="javascript:void(0);">Privacy Policy</a></div>
+		<div class="copyright">Thomas BBQ &copy; 2015
 		<div id="back_top"><a class="button" title="" data-slide="1">Back to top</a></div>
 	</div>
 </div>
