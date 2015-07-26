@@ -82,9 +82,9 @@
 			<div id="content" class="grid_12">
 				<div class="filtr_bg">
 					<h1>World famous Bar-B-Q</h1>
-					<h2>Tender, juicy, slow smoked up to 14 hours</h2>
+					<h2>Tender and juicy. Slow smoked up to 14 hours</h2>
 					<div class="bord_in_red"></div>
-					<p>Fusce faucibus egestas condimentum. Suspendisse ac nibh ullamcorper quam iaculis pretium eu eu turpis.</p>
+					<p>Quality ingredients, careful preparation, and the just the perfect amount of spices.</p>
 				</div>
 				<a class="button" title="" data-slide="2">Read More</a>
 			</div>
@@ -122,7 +122,7 @@ Play with your food. Get it on your shirt...Welcome to Our Kitchen!</h2>
 		<div class="container clearfix">
 
 			<div id="content" class="grid_12">
-				<p>Integer ut lacus nec mauris dictum</p>
+				<p>Let us cater your next special event!</p>
 			</div>
 
 		</div>
@@ -309,7 +309,7 @@ Play with your food. Get it on your shirt...Welcome to Our Kitchen!</h2>
 		<div class="container clearfix">
 
 			<div id="content" class="grid_12">
-				<span>Integer dapibus, tellus non laoreet gravida, neque turpis ultricies</span>
+				<span>Today, all of our meats are smoked on-site at the restaurant the same way it was done since the beginning.</span>
 			</div>
 
 		</div>
