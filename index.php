@@ -108,8 +108,7 @@ Play with your food. Get it on your shirt...Welcome to Our Kitchen!</h2>
 
 			<h4>Who We Are?</h4>
 			<img class="about_img" src="images/about_img1.jpg" alt="" />
-			<p>Integer libero felis, sagittis et ornare non, malesuada vitae turpis. Suspendisse potenti. Quisque nec lorem quis nisi consectetur fermentum. Fusce blandit mollis justo, a consequat est dignissim a. Quisque fringilla quam sed metus viverra id venenatis magna congue. Curabitur nulla ante, condimentum et tincidunt volutpat, vestibulum ut ipsum. Nullam sit amet nisi orci. Sed eu felis nec dolor dapibus viverra. In et massa odio. Mauris porttitor auctor blandit.</p>
-			<p>Nunc venenatis lorem et mi elementum laoreet. Integer mollis erat lacus. Mauris eu eros vitae lacus tristique luctus. Vivamus diam augue, tempus non vestibulum ac, vulputate eu odio. In lorem libero, rutrum vel adipiscing at, tempus eget mi. Duis adipiscing placerat laoreet. Morbi non lorem sit amet erat pretium faucibus. Praesent vitae odio eu ligula ultricies mattis vel mollis sapien. Pellentesque sollicitudin justo quis urna auctor iaculis. Phasellus nec neque libero, vel aliquam enim. Mauris faucibus tincidunt augue, et pretium urna molestie non. Sed lacinia cursus mi, non adipiscing</p>
+			<p>Our beginnings started from recipes originating in 1960, being passed down generation to generation. All of food are from in house cut 100% all beef, pork, chicken, and spices. </p>
 		</div>
 
 	</div>
@@ -122,7 +121,7 @@ Play with your food. Get it on your shirt...Welcome to Our Kitchen!</h2>
 		<div class="container clearfix">
 
 			<div id="content" class="grid_12">
-				<p>Let us cater your next special event!</p>
+				<p>Let us cater your next special event! Parties, Weddings, Graduations, you name it, we will cater it!</p>
 			</div>
 
 		</div>
@@ -136,11 +135,22 @@ Play with your food. Get it on your shirt...Welcome to Our Kitchen!</h2>
 
 		<div id="content" class="grid_12">
 			<h1><span>Menu</span></h1>
-			<h2>Cras urna leo, fringilla nec aliquam ac, varius in enim. Maecenas non felis augue, quis sagittis justo. Donec gravida, arcu in aliquet convallis, purus lectus euismod nulla, in porttitor lorem ligula nec metus. Curabitur sit amet metus quis arcu pharetra hendrerit. Nulla at tempus ligula.</h2>
+			<h2>Made with love.</h2>
 			<img class="icon_img" src="images/icon11.png" />
+
+			<div id="grid_12">
+				<img class="menu-png" src="images/menu1.png">
+
+				<img class="menu-png" src="images/menu2.png">
+
+				<img class="menu-png" src="images/menu3.png">
+			</div>
+
+
 			<div class="overflow_hidden">
 
 				<!-- portfolio_block -->
+				<!--
 				<ul class="item gallery-list">
 					<li class="grid_3">
 						<a href="javascript:void(0);" class="hover_img">
@@ -232,6 +242,7 @@ Play with your food. Get it on your shirt...Welcome to Our Kitchen!</h2>
 					</li>
 					<div class="clear"></div>
 				</ul>
+				-->
 				<!-- //portfolio_block -->
 
 			</div>
@@ -309,7 +320,7 @@ Play with your food. Get it on your shirt...Welcome to Our Kitchen!</h2>
 		<div class="container clearfix">
 
 			<div id="content" class="grid_12">
-				<span>Today, all of our meats are smoked on-site at the restaurant the same way it was done since the beginning.</span>
+				<span>Today, all of our meats are smoked on-site at the restaurant the same way it was done since 1960.</span>
 			</div>
 
 		</div>
@@ -324,18 +335,26 @@ Play with your food. Get it on your shirt...Welcome to Our Kitchen!</h2>
 
 		<div id="content" class="grid_12">
 			<h1><span>Contact</span></h1>
-			<h2>Cras urna leo, fringilla nec aliquam ac, varius in enim. Maecenas non felis augue, quis sagittis justo. Donec gravida, arcu in aliquet convallis, purus lectus euismod nulla, in porttitor lorem ligula nec metus. Curabitur sit amet metus quis arcu pharetra hendrerit. Nulla at tempus ligula.</h2>
+			<!--<h2>Cras urna leo, fringilla nec aliquam ac, varius in enim. Maecenas non felis augue, quis sagittis justo. Donec gravida, arcu in aliquet convallis, purus lectus euismod nulla, in porttitor lorem ligula nec metus. Curabitur sit amet metus quis arcu pharetra hendrerit. Nulla at tempus ligula.</h2>-->
 			<img class="icon_img" src="images/icon13.png" />
 		</div>
 		<div class="clear"></div>
 
 		<div class="grid_12 contact_det_block">
-			<p>Quisque imperdiet neque et nunc laoreet nec luctus erat consectetur. Proin dapibus aliquet odio</p>
+			<p>Get in touch with us with any questions or comments, or for orders or catering requests!</p>
 			<ul class="foot_block_intouch">
-				<li class="touch_phone"><p>(+1) 245 5462 252</p></li>
-				<li class="touch_clock"><p>Mon - Sat 9:00am - 6:00 pm</p></li>
+				<li class="touch_phone"><p>Tel: (713) 697-5033</p></li>
+				<li class="touch_phone"><p>Fax: (713) 697-1306</p></li>
+				<li class="touch_clock">
+					<p>
+						Business Hours: <br/>
+						Monday - Thursday:	10:30 am - 10:00 pm<br/>
+						Friday - Saturday:	10:30 am - 10:30 pm<br/>
+						Sunday: 11:30 am - 9:00 pm
+					</p>
+				</li>
 				<li class="touch_site"><a href="javascript:void(0);">www.thomasbbqco.com</a></li>
-				<li class="touch_adress"><p>3301 Lorem Ipsum, Dolor Sit Amet St</p></li>
+				<li class="touch_adress"><p>5594 North Freeway (@ Tidwell) Houston, TX 77076</p></li>
 			</ul>
 		</div>
 		<div class="grid_9 omega">
