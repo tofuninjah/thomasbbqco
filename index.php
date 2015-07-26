@@ -105,13 +105,13 @@ Play with your food. Get it on your shirt...Welcome to Our Kitchen!</h2>
 			<img class="icon_img" src="images/icon10.png" />
 		</div>
 		<div id="content" class="grid_12">
-			<!--
+
 			<h4>Who We Are?</h4>
 			<img class="about_img" src="images/about_img1.jpg" alt="" />
 			<p>Integer libero felis, sagittis et ornare non, malesuada vitae turpis. Suspendisse potenti. Quisque nec lorem quis nisi consectetur fermentum. Fusce blandit mollis justo, a consequat est dignissim a. Quisque fringilla quam sed metus viverra id venenatis magna congue. Curabitur nulla ante, condimentum et tincidunt volutpat, vestibulum ut ipsum. Nullam sit amet nisi orci. Sed eu felis nec dolor dapibus viverra. In et massa odio. Mauris porttitor auctor blandit.</p>
 			<p>Nunc venenatis lorem et mi elementum laoreet. Integer mollis erat lacus. Mauris eu eros vitae lacus tristique luctus. Vivamus diam augue, tempus non vestibulum ac, vulputate eu odio. In lorem libero, rutrum vel adipiscing at, tempus eget mi. Duis adipiscing placerat laoreet. Morbi non lorem sit amet erat pretium faucibus. Praesent vitae odio eu ligula ultricies mattis vel mollis sapien. Pellentesque sollicitudin justo quis urna auctor iaculis. Phasellus nec neque libero, vel aliquam enim. Mauris faucibus tincidunt augue, et pretium urna molestie non. Sed lacinia cursus mi, non adipiscing</p>
 		</div>
-		-->
+
 	</div>
 </div>
 
@@ -361,14 +361,14 @@ Play with your food. Get it on your shirt...Welcome to Our Kitchen!</h2>
 
 	</div>
 
-	<div id="map_block"><iframe width="100%" height="722" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=los+angeles&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=53.080379,114.169922&amp;ie=UTF8&amp;hq=&amp;hnear=Los+Angeles,+California&amp;ll=34.052234,-118.243685&amp;spn=0.003427,0.006968&amp;t=m&amp;z=14&amp;output=embed"></iframe></div>
+	<div id="map_block"><iframe width="100%" height="722" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d55371.6741463065!2d-95.4381062095325!3d29.84322489014993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x2696bd0404c7c3fa!2sThomas+Bar+B-Q!5e0!3m2!1sen!2sus!4v1437947035328" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></div>
 
 </div>
 
 
 <div id="footer">
 	<div class="container clearfix">
-		<div class="copyright">Thomas BBQ &copy; 2015
+		<div class="copyright">Thomas BBQ &copy; 2015 </div>
 		<div id="back_top"><a class="button" title="" data-slide="1">Back to top</a></div>
 	</div>
 </div>
