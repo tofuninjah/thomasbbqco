@@ -82,7 +82,7 @@
 			<div id="content" class="grid_12">
 				<div class="filtr_bg">
 					<h1>What makes our restaurant special?</h1>
-					<h2>- Our Delicious Food and Your Inspiration</h2>
+					<h2>- We Kill em' and Grill em'!</h2>
 					<div class="bord_in_red"></div>
 					<p>Fusce faucibus egestas condimentum. Suspendisse ac nibh ullamcorper quam iaculis pretium eu eu turpis.</p>
 				</div>
