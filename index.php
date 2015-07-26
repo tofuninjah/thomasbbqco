@@ -81,7 +81,7 @@
 		<div class="container clearfix">
 			<div id="content" class="grid_12">
 				<div class="filtr_bg">
-					<h1>World famous Bar-B-Q</h1>
+					<h1>Get the taste of real Bar-B-Q!</h1>
 					<h2>Tender and juicy. Slow smoked up to 14 hours</h2>
 					<div class="bord_in_red"></div>
 					<p>Quality ingredients, careful preparation, and the just the perfect amount of spices.</p>
@@ -329,17 +329,17 @@ Play with your food. Get it on your shirt...Welcome to Our Kitchen!</h2>
 		</div>
 		<div class="clear"></div>
 
-		<div class="grid_3 contact_det_block">
+		<div class="grid_12 contact_det_block">
 			<p>Quisque imperdiet neque et nunc laoreet nec luctus erat consectetur. Proin dapibus aliquet odio</p>
 			<ul class="foot_block_intouch">
 				<li class="touch_phone"><p>(+1) 245 5462 252</p></li>
 				<li class="touch_clock"><p>Mon - Sat 9:00am - 6:00 pm</p></li>
-				<li class="touch_mail"><a href="mailto:support@lorem.com">support@lorem.com</a></li>
-				<li class="touch_site"><a href="javascript:void(0);">www.lorem.com</a></li>
+				<li class="touch_site"><a href="javascript:void(0);">www.thomasbbqco.com</a></li>
 				<li class="touch_adress"><p>3301 Lorem Ipsum, Dolor Sit Amet St</p></li>
 			</ul>
 		</div>
 		<div class="grid_9 omega">
+			<!--
 			<div class="contact_form">
 				<div id="note"></div>
 				<div id="fields">
@@ -355,6 +355,7 @@ Play with your food. Get it on your shirt...Welcome to Our Kitchen!</h2>
 					</form>
 				</div>
 			</div>
+			-->
 		</div>
 		<div class="clear"></div>
 
