@@ -354,7 +354,7 @@ Play with your food. Get it on your shirt...Welcome to Our Kitchen!</h2>
 					</p>
 				</li>
 				<li class="touch_site"><a href="javascript:void(0);">www.thomasbbqco.com</a></li>
-				<li class="touch_adress"><p>5594 North Freeway (@ Tidwell) Houston, TX 77076</p></li>
+				<li class="touch_adress"><p>56321 N Eldridge Pkwy Houston, TX 77041</p></li>
 			</ul>
 		</div>
 		<div class="grid_9 omega">
@@ -380,7 +380,7 @@ Play with your food. Get it on your shirt...Welcome to Our Kitchen!</h2>
 
 	</div>
 
-	<div id="map_block"><iframe width="100%" height="722" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d55371.6741463065!2d-95.4381062095325!3d29.84322489014993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x2696bd0404c7c3fa!2sThomas+Bar+B-Q!5e0!3m2!1sen!2sus!4v1437947035328" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></div>
+	<div id="map_block"><iframe width="100%" height="722" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d110748.96173544003!2d-95.51807245!3d29.838162250000007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0xc1b4f5a15f428799!2sThomas+Bar-B-Q!5e0!3m2!1sen!2sus!4v1437957927406" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></div>
 
 </div>
 
