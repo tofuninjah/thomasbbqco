@@ -108,7 +108,7 @@ Play with your food. Get it on your shirt...Welcome to Our Kitchen!</h2>
 
 			<h4>Who We Are?</h4>
 			<img class="about_img" src="images/about_img1.jpg" alt="" />
-			<p>Our beginnings started from recipes originating in 1960, being passed down generation to generation. All of food are from in house cut 100% all beef, pork, chicken, and spices. </p>
+			<p>Our beginnings started from recipes originating in 1960, being passed down generation to generation. All our food are from in house cuts, 100% all beef, pork, chicken, and spices. </p>
 		</div>
 
 	</div>
