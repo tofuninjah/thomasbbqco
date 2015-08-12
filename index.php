@@ -354,7 +354,7 @@ Play with your food. Get it on your shirt...Welcome to Our Kitchen!</h2>
 					</p>
 				</li>
 				<li class="touch_site"><a href="javascript:void(0);">www.thomasbbqco.com</a></li>
-				<li class="touch_adress"><p>56321 N Eldridge Pkwy Houston, TX 77041</p></li>
+				<li class="touch_adress"><p>5594 North Fwy Houston, TX 77076</p></li>
 			</ul>
 		</div>
 		<div class="grid_9 omega">
@@ -380,7 +380,7 @@ Play with your food. Get it on your shirt...Welcome to Our Kitchen!</h2>
 
 	</div>
 
-	<div id="map_block"><iframe width="100%" height="722" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3460.0021338594443!2d-95.60861859999997!3d29.864212300000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640d0867c09d9df%3A0x7345942f5607fb1e!2s6321+N+Eldridge+Pkwy%2C+Houston%2C+TX+77041!5e0!3m2!1sen!2sus!4v1437958500021" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></div>
+	<div id="map_block"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3460.5621767108755!2d-95.39255799999998!3d29.848057000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640c7f61c6c6355%3A0x2696bd0404c7c3fa!2sThomas+Bar+B-Q!5e0!3m2!1sen!2sus!4v1439354701729" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></div>
 
 </div>
 
