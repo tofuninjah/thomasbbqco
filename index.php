@@ -139,7 +139,7 @@ Play with your food. Get it on your shirt...Welcome to Our Kitchen!</h2>
 			<img class="icon_img" src="images/icon11.png" />
 
 			<div id="grid_12">
-				<img class="menu-png" src="images/menu1.png">
+				<img class="menu-png" src="images/menu.png">
 
 				<img class="menu-png" src="images/menu2.png">
 
