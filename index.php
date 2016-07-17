@@ -343,7 +343,7 @@ Play with your food. Get it on your shirt...Welcome to Our Kitchen!</h2>
 		<div class="grid_12 contact_det_block">
 			<p>Get in touch with us with any questions or comments, or for orders or catering requests!</p>
 			<ul class="foot_block_intouch">
-				<li class="touch_phone"><p>Tel: (832) 284-2374</p></li>
+				<li class="touch_phone"><p>Tel: (713) 697-5033</p></li>
 				<li class="touch_phone"><p>Fax: (713) 697-1306</p></li>
 				<li class="touch_clock">
 					<p>
